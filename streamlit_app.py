@@ -9,3 +9,4 @@ streamlit.text('Kale spinach cucumber smoothie')
 streamlit.text('Hard boiled egg')
 streamlit.text('Avocado Toast ')
 
+streamlit.title('Build your own fruit smoothie')
